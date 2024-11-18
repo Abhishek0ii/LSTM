@@ -2,6 +2,8 @@
 
 ## Team Members
 - **Abhishek Kumar** - 21BCE0846
+- **G.Divakar Reddy** - 21BCE3417
+- **Sayan Mitra** - 21BCE0384
 
 ## Aim
 This project aims to develop a fake news detection system using Long Short-Term Memory (LSTM) deep learning techniques. It analyzes news article texts and headlines to classify them as fake or real.
