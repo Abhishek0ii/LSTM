@@ -2,8 +2,6 @@
 
 ## Team Members
 - **Abhishek Kumar** - 21BCE0846
-- **G.Divakar Reddy** - 21BCE3417
-- **Sayan Mitra** - 21BCE0384
 
 ## Aim
 This project aims to develop a fake news detection system using Long Short-Term Memory (LSTM) deep learning techniques. It analyzes news article texts and headlines to classify them as fake or real.
@@ -36,8 +34,8 @@ Traditional detection methods, such as manual fact-checking and heuristic rules,
 
 ### 1. Data Collection
 We utilized the following datasets:
-- [LIAR Dataset](https://example.com): 12,800 short claims labeled as true, false, or other categories.
-- [FakeNewsNet Dataset](https://example.com): News articles with metadata and social context.
+- [LIAR Dataset]: 12,800 short claims labeled as true, false, or other categories.
+- [FakeNewsNet Dataset]: News articles with metadata and social context.
 - [Kaggle Fake News Detection Dataset](https://www.kaggle.com): Headlines and article content labeled as real or fake.
 
 ### 2. Data Preprocessing
@@ -94,8 +92,8 @@ Our LSTM-based fake news detection system provides an effective solution to comb
 ---
 
 ## References
-- [LIAR Dataset](https://example.com)
-- [FakeNewsNet Dataset](https://example.com)
+- [LIAR Dataset]
+- [FakeNewsNet Dataset]
 - [Kaggle Dataset](https://www.kaggle.com)
 
 ---
@@ -103,9 +101,16 @@ Our LSTM-based fake news detection system provides an effective solution to comb
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Abhishek0ii/LSTM_Fake-News-Detection.git
 
 2. Clone the repository:
    ```bash
    pip install -r requirements.txt
+
+
+For any queries or further information, feel free to reach out:
+
+Email: abhishek222das@gmail.com
+Phone: +91 9065350300
+Thank you for exploring this project!
 
