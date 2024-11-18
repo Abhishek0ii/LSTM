@@ -104,3 +104,8 @@ Our LSTM-based fake news detection system provides an effective solution to comb
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
+
+2. Clone the repository:
+   ```bash
+   pip install -r requirements.txt
+
